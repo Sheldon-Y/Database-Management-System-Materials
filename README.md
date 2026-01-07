@@ -1,5 +1,5 @@
 # Database-Management-System
-
+This repository contains course projects and courseware content for UVIC CSC370.
 Developed a comprehensive database management system using Python and PostgreSQL to manage and automate tasks related to campaigns, volunteers, donors, and organizational events.
 
 1. **Database Connection Establishment**:
